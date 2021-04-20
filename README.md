@@ -1,4 +1,4 @@
-# stern
+# Monzo x gmail receipting
 Automatic Online Receipting for Monzo (via gmail)
 
 ## About
