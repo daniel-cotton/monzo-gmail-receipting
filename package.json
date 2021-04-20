@@ -11,7 +11,7 @@
     "express": "^4.16.4",
     "googleapis": "^37.1.0",
     "moment": "^2.24.0",
-    "node-fetch": "^2.3.0"
+    "node-fetch": "^2.6.1"
   },
   "scripts": {
     "start": "node index"
